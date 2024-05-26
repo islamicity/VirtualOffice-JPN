@@ -2,9 +2,6 @@
 
 ![image](https://user-images.githubusercontent.com/1011232/79879948-52bf8f00-842a-11ea-9b5b-53676965855a.png)
 
-# Kantor Virtual
-
-![image](https://user-images.githubusercontent.com/1011232/79879948-52bf8f00-842a-11ea-9b5b-53676965855a.png)
 
 ## Motivasi
 
